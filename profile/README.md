@@ -1,4 +1,4 @@
-<div align="Left">
+<div align="center">
   <h1>Ctrl Studio</h1>
   <p><b>Defining the Element. Maintaining the CTRL.</b></p>
 </div>
