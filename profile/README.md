@@ -40,10 +40,10 @@ Our laboratory is structured around five primary modules, each addressing critic
 
 | Module | Designation | Development Status |
 | :--- | :--- | :--- |
-| **Atomic Stack** | Routing Architecture | Architecting Phase |
-| **Element** | Interface & UI | Development Phase |
+| **Atomic Stack** | Routing Architecture | Concept Phase |
+| **Element** | Interface & UI | Concept Phase |
 | **Integrity** | Verification Engine | Concept Phase |
-| **Synapse** | Data Layer | Concept Phase |
+| **Synapse** | Data Layer | Development Phase |
 
 <br>
 
